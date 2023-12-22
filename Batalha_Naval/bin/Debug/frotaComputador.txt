@@ -1,0 +1,11 @@
+Porta-aviões;h;9;5
+Encouraçado;v;6;0
+Cruzador;h;5;1
+Cruzador;v;3;6
+Hidroavião;h;1;0
+Hidroavião;v;3;4
+Hidroavião;h;7;8
+Submarino;h;0;5
+Submarino;h;0;9
+Submarino;h;1;3
+Submarino;h;6;5
